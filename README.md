@@ -7,8 +7,8 @@ It has different features like -
 cart 
 - Add to Cart
 - Add to Wishlist 
-- View product from the Wishlist page and Add it to cart. - - - - Checkout information validation before placing order
-- Auto fill checkout information from user's 2nd order 
+- View product from the Wishlist page and Add it to cart 
+- Checkout information validation before placing order, auto fill checkout information from user's 2nd order 
 - Checkout Page 
 - Multiple payment option during checkout - PayPal , Razorpay and Cash on Delivery 
 - View orders and order status 
